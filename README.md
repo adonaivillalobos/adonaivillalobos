@@ -1,5 +1,5 @@
 # About Me:
-I am Adonai, but people often call me David, since it is my second name.<br>I am a Software Engineer student at BYU-I. I am finishing my first certificate and will soon start my Associate's degree.<br><br>I am passionate about nature, music, and learning other cultures.<br><br>I am working on my Digital Portfolio.<br><br>As a beginner I know HTML, CSS, JavaScript and Python.
+I am Adonai, but people often call me David, since it is my second name.<br>I am a Software Engineering student at BYU-I. I have completed my first certificate (Web & Computer Programming) and am almost done with my Associate's degree.<br><br>I am passionate about nature, music, and learning other cultures.<br><br>I am working on my Digital Portfolio.<br><br>As a beginner, I know HTML, CSS, JavaScript, Python, Node.js, Git, and SQL.
 
 
 ## 🌐 Socials:
